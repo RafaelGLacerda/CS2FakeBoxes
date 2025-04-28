@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Restricted Rebellion",
+    "price": 4.99,
+    "rarities": [
+      "Restricted",
+      "Classified"
+    ]
+  },
+  {
+    "name": "Classified Chaos",
+    "price": 9.99,
+    "rarities": [
+      "Classified",
+      "Covert"
+    ]
+  },
+  {
+    "name": "Covert Strike",
+    "price": 14.99,
+    "rarities": [
+      "Covert"
+    ]
+  },
+  {
+    "name": "High Rollers Case",
+    "price": 24.99,
+    "rarities": [
+      "Classified",
+      "Covert"
+    ]
+  },
+  {
+    "name": "Elite Force Case",
+    "price": 49.99,
+    "rarities": [
+      "Covert"
+    ]
+  },
+  {
+    "name": "Phantom Elite",
+    "price": 74.99,
+    "rarities": [
+      "Covert"
+    ]
+  },
+  {
+    "name": "Legendary Crate",
+    "price": 99.99,
+    "rarities": [
+      "Covert"
+    ]
+  },
+  {
+    "name": "Ultimate Dream Case",
+    "price": 149.99,
+    "rarities": [
+      "Covert"
+    ]
+  }
+]

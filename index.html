@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🎁 CS2 Case Opening Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>🎁 CS2 Case Opening Simulator</h1>
+
+  <div class="controls">
+    <div>
+      <label for="box-select">Escolha uma caixa:</label>
+      <select id="box-select"></select>
+    </div>
+
+    <div>
+      <label for="amount-select">Quantas caixas abrir:</label>
+      <select id="amount-select">
+        <option value="1">1 caixa</option>
+        <option value="2">2 caixas</option>
+        <option value="3">3 caixas</option>
+        <option value="4">4 caixas</option>
+        <option value="5">5 caixas</option>
+      </select>
+    </div>
+  </div>
+
+  <button onclick="openBox()">Abrir Caixa</button>
+
+  <div id="roulette-area" class="roulette-area"></div>
+
+  <div id="result" class="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

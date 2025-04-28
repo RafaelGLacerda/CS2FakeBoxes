@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AK-47 | Redline (Field-Tested)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/ak47_redline_light_large.6b154c79d0556180c19b6e0d9e740381c380dfbb.png",
+    "rarity": "Classified",
+    "chance": 0.1,
+    "float": 0.2,
+    "price": 28.5
+  },
+  {
+    "name": "AWP | Asiimov (Field-Tested)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/awp_asiimov_light_large.a0f9b8679513762c508d57f075444ef98a329565.png",
+    "rarity": "Covert",
+    "chance": 0.05,
+    "float": 0.25,
+    "price": 120.0
+  },
+  {
+    "name": "Desert Eagle | Blaze (Factory New)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/deserteagle_blaze_light_large.6fcd508c731f17df0ee06b6ade24bdb6d0e6f2fa.png",
+    "rarity": "Classified",
+    "chance": 0.1,
+    "float": 0.02,
+    "price": 800.0
+  },
+  {
+    "name": "Glock-18 | Fade (Factory New)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/glock_fade_light_large.7ee04a58c6cf95d9c752dc738b5a6e70c6fa7b33.png",
+    "rarity": "Covert",
+    "chance": 0.05,
+    "float": 0.01,
+    "price": 350.0
+  },
+  {
+    "name": "M4A4 | Howl (Field-Tested)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/m4a4_howl_light_large.d0ff55608c8d22142c77a9f95391772a148553e7.png",
+    "rarity": "Contraband",
+    "chance": 0.01,
+    "float": 0.3,
+    "price": 2000.0
+  },
+  {
+    "name": "USP-S | Kill Confirmed (Minimal Wear)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/usp_silencer_kill_confirmed_light_large.1524078ad50b2c96a0dd1e392f74538b0f81b190.png",
+    "rarity": "Covert",
+    "chance": 0.05,
+    "float": 0.08,
+    "price": 90.0
+  },
+  {
+    "name": "AWP | Dragon Lore (Factory New)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/awp_dragon_lore_light_large.9b5d9b38787d0ed6f2469fe3f4042afe7f18413b.png",
+    "rarity": "Covert",
+    "chance": 0.005,
+    "float": 0.01,
+    "price": 10000.0
+  },
+  {
+    "name": "P90 | Death by Kitty (Minimal Wear)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/p90_deathbykitty_light_large.0b676389c190d3cf8c2d9a9980adab9a60a986c1.png",
+    "rarity": "Classified",
+    "chance": 0.1,
+    "float": 0.09,
+    "price": 45.0
+  },
+  {
+    "name": "Karambit | Doppler (Factory New)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/knife_karambit_doppler_phase1_light_large.8bbfd4207a4e2f7f4f72f3542a88c3fdfc5c3c87.png",
+    "rarity": "Covert",
+    "chance": 0.005,
+    "float": 0.02,
+    "price": 1500.0
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Minimal Wear)",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/ak47_fire_serpent_light_large.13b66b4fab79e927651c01fb9b31c7648206dfa8.png",
+    "rarity": "Covert",
+    "chance": 0.05,
+    "float": 0.1,
+    "price": 750.0
+  }
+]
