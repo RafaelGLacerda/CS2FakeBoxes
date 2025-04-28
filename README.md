@@ -9,7 +9,7 @@
 - Interface responsiva, moderna e estilizada.
 
 ## 🛠️ Como rodar o projeto
-
+site: https://cs2fakeboxes.netlify.app/
 1. Clone este repositório ou baixe os arquivos manualmente.
 2. Certifique-se de que os seguintes arquivos estejam juntos:
    - `index.html`
